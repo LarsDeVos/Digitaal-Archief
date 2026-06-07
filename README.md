@@ -19,9 +19,9 @@ Welcome to my digital repository. This archive documents my journey, technical c
 | **Operating Systems** | Linux (CLI-focused), Windows Server, macOS |
 | **Virtualization & Cloud** | Proxmox VE, Containers (LXC/Docker), VM Management |
 | **Networking & Identity** | Ubiquiti Networks, Identity & Access Management (IAM), Authentik |
-| **Storage & Hosting** | TrueNAS, Nextcloud, Immich, Self-Hosting architectures |
+| **Storage & Hosting** | TrueNAS, Nextcloud, Immich, Mailcow, Plex, pihole |
 | **Automation & Security**| Ansible, Certificate Management (Manual & Automated) |
-| **Hardware Manipulation**| 3D Printing (CAD Design, Machine Maintenance & G-code optimization) |
+| **Hardware Manipulation**| 3D Printing (Blender Design, Machine Maintenance) |
 
 ---
 
@@ -41,6 +41,8 @@ Welcome to my digital repository. This archive documents my journey, technical c
 
 ### 🏠 The Sandbox: Enterprise Homelab
 * Maintaining a fully self-hosted ecosystem to test networking topologies, IAM policies with **Authentik**, and automated storage backups via **TrueNAS**. This serves as my primary engine for rapid tech stack prototyping.
+* Nextcloud as a selfhosted cloud solution
+* Own mail server with mailcow
 
 ---
 
