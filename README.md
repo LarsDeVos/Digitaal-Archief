@@ -47,7 +47,7 @@ Welcome to my digital repository. This archive documents my journey, technical c
 ---
 
 ## 🏫 [0x04] Education Registry
-* **Associate's Degree: Applied Computer Science - IT Operations** (Sept 2023 - Present)
+* **bachelor Degree: Applied Computer Science - IT Operations** (Sept 2023 - Present)
   * *HoGent Aalst*
 * **Secondary Degree: Entrepreneurship & IT Management** (Sept 2019 - June 2023)
   * *Sint-Maarteninstituut Aalst*
@@ -64,6 +64,5 @@ Welcome to my digital repository. This archive documents my journey, technical c
 ## 📬 [0x06] Establish Connection
 If you want to discuss hypervisors, Ansible playbooks, or 3D printer calibrations, feel free to ping my endpoints:
 
-- **Telephone:** [+32 468 25 38 06](tel:+32468253806)
 - **Email:** [lars.devos@icloud.com](mailto:lars.devos@icloud.com)
 - **LinkedIn:** [/in/lars-de-vos](https://linkedin.com/in/lars-de-vos/)
